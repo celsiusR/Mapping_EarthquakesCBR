@@ -8,12 +8,12 @@ The application can be run from a web server. For a local verification and devel
 
 
 
-| ![img](C:\Rutgers\module-13\Earthquake_Challenge\images\top-light.jpg) |
+| ![img](/images/top-light.jpg) |
 | ------------------------------------------------------------ |
 |                                                              |
-| ![img](C:\Rutgers\module-13\Earthquake_Challenge\images\satellite.jpg) |
+| ![img](/images/satellite.jpg) |
 |                                                              |
-| ![img](C:\Rutgers\module-13\Earthquake_Challenge\images\dark.jpg) |
+| ![img](/images/dark.jpg) |
 
 
 
